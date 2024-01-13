@@ -1,3 +1,10 @@
+# Hello, I'm [Your Name]
+
+Welcome to my GitHub profile! 👋
+
+
+- 🌱 I’m currently learning JS/typescript | python/django ==> in progress [================50%...]
+
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otmane222&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

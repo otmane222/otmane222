@@ -7,7 +7,7 @@ Welcome to my GitHub profile! 👋
 - A part of 42 Network, 1337 coding school in khouribga, self-taught Developer
 - 🌱 I’m currently learning JS/typescript | python/django ==> in progress [================50%...]
 #
-[![oaboulgh's 42 stats](https://badge.mediaplus.ma/binary/oaboulgh)](https://github.com/oakoudad/badge42)
+[![oaboulgh's 42 stats](https://badge.mediaplus.ma/darkblue/oaboulgh)](https://github.com/oakoudad/badge42)
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otmane222&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

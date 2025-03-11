@@ -1,4 +1,4 @@
-- Graduated From 1337 coding school in khouribga + self-taught Developer
+Graduated From 1337 coding school in khouribga + self-taught Developer
 ## 🛠️ Technologies & Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
